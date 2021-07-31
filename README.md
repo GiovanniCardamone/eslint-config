@@ -20,9 +20,3 @@ Add eslintrc configuration in your `package.json`
   }
 }
 ```
-
-Install peer dependencies
-
-```bash
-
-```

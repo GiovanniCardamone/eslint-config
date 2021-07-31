@@ -1,0 +1,28 @@
+{
+  "name": "@giovannicardamone/eslint-config",
+  "version": "0.0.1",
+  "description": "My Eslint Configuration for node",
+  "main": ".eslintrc.json",
+  "private": false,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GiovanniCardamone/eslintc.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Giovanni Cardamone <g.cardamone2@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GiovanniCardamone/eslintc/issues"
+  },
+  "homepage": "https://github.com/GiovanniCardamone/eslintc#readme",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.28.5",
+    "@typescript-eslint/parser": "^4.28.5",
+    "eslint": "7.32.0"
+  }
+}

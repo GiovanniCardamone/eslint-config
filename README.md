@@ -7,7 +7,7 @@ My Eslint Configuration
 Install package
 
 ```bash
-npm i -D @giovannicardamone/eslintrc
+npm i -D @giovannicardamone/eslint-config
 ```
 
 Add eslintrc configuration in your `package.json`

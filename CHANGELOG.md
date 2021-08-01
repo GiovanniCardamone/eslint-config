@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/GiovanniCardamone/eslintc/compare/v0.1.1...v0.2.0) (2021-08-01)
+
+
+### Features
+
+* add var support ([17d9165](https://github.com/GiovanniCardamone/eslintc/commit/17d916533a0d2ed0009c0532860f7d91019c5382))
+
+
+
 ## [0.1.1](https://github.com/GiovanniCardamone/eslintc/compare/v0.1.0...v0.1.1) (2021-08-01)
 
 

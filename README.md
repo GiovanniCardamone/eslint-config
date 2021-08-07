@@ -25,7 +25,7 @@ Install package
 Install required dev dependencies
 
 ```bash
-  npm i -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser
+  npm i -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-prettier
 ```
 
 Add eslintrc configuration in your `package.json`

@@ -1,6 +1,6 @@
 {
   "name": "@giovannicardamone/eslint-config",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "My Eslint Configuration for node",
   "main": ".eslintrc.json",
   "private": false,

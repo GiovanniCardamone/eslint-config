@@ -1,8 +1,8 @@
 # eslintc
 
-[![CI](https://github.com/GiovanniCardamone/eslint-config/actions/workflows/npm-ci.yml/badge.svg)](https://github.com/GiovanniCardamone/class-schema/actions/workflows/npm-ci.yml)
-[![NPM version](https://img.shields.io/npm/v/@giovannicardamone/eslint-config.svg?style=plastic)](https://www.npmjs.com/package/class-schema)
-[![NPM downloads](https://img.shields.io/npm/dm/@giovannicardamone/eslint-config.svg?style=plastic)](https://www.npmjs.com/package/class-schema)
+[![CI](https://github.com/GiovanniCardamone/eslint-config/actions/workflows/npm-ci.yml/badge.svg)](https://github.com/GiovanniCardamone/eslint-config/actions/workflows/npm-ci.yml)
+[![NPM version](https://img.shields.io/npm/v/@giovannicardamone/eslint-config.svg?style=plastic)](https://www.npmjs.com/package/@giovannicardamone/eslint-config)
+[![NPM downloads](https://img.shields.io/npm/dm/@giovannicardamone/eslint-config.svg?style=plastic)](https://www.npmjs.com/package/@giovannicardamone/eslint-config)
 
 My Eslint Configuration
 

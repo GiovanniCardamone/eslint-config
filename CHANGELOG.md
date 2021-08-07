@@ -1,3 +1,7 @@
+## [0.3.1](https://github.com/GiovanniCardamone/eslintc/compare/v0.3.0...v0.3.1) (2021-08-07)
+
+
+
 # [0.3.0](https://github.com/GiovanniCardamone/eslintc/compare/v0.2.1...v0.3.0) (2021-08-07)
 
 

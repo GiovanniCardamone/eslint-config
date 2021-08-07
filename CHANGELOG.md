@@ -1,3 +1,12 @@
+## [0.4.1](https://github.com/GiovanniCardamone/eslintc/compare/v0.4.0...v0.4.1) (2021-08-07)
+
+
+### Bug Fixes
+
+* fixing prettier indent ([dc3a7b7](https://github.com/GiovanniCardamone/eslintc/commit/dc3a7b7604d1da34ba8ba3c6e722a03fb83db14d))
+
+
+
 # [0.4.0](https://github.com/GiovanniCardamone/eslintc/compare/v0.3.1...v0.4.0) (2021-08-07)
 
 

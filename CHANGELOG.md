@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/GiovanniCardamone/eslintc/compare/v0.2.1...v0.3.0) (2021-08-07)
+
+
+### Features
+
+* explicit-module-boundary-type off ([a401bfc](https://github.com/GiovanniCardamone/eslintc/commit/a401bfc37ca162cb3504a1d08394f549726fc47e))
+
+
+
 ## [0.2.1](https://github.com/GiovanniCardamone/eslintc/compare/v0.2.0...v0.2.1) (2021-08-06)
 
 

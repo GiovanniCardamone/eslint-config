@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/GiovanniCardamone/eslintc/compare/v0.3.1...v0.4.0) (2021-08-07)
+
+
+### Features
+
+* adding prettier ([e936b96](https://github.com/GiovanniCardamone/eslintc/commit/e936b96fd78abce70ca9bbd1dffa081321b8609e))
+
+
+
 ## [0.3.1](https://github.com/GiovanniCardamone/eslintc/compare/v0.3.0...v0.3.1) (2021-08-07)
 
 

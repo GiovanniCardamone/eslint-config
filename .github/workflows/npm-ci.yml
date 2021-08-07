@@ -1,12 +1,14 @@
-name: Release Package
+name: CI
 
 on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "docs/**"
+      - "*.md"
 
 jobs:
-
   # create / release
   Release:
     name: Create Release Package
@@ -29,18 +31,16 @@ jobs:
         uses: TriPSs/conventional-changelog-action@v3
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          git-message: 'chore(release): {version}'
-          tag-prefix: 'v'
-          output-file: 'CHANGELOG.md'
-          release-count: '10'
-          skip-on-empty: 'false'
-          skip-version-file: 'false'
-          skip-commit: 'false'
+          git-message: "chore(release): {version}"
+          tag-prefix: "v"
+          output-file: "CHANGELOG.md"
+          release-count: "10"
+          skip-on-empty: "false"
+          skip-version-file: "false"
+          skip-commit: "false"
 
       # Publish to NPM
       - name: Publish to NPM
         uses: JS-DevTools/npm-publish@v1
         with:
           token: ${{ secrets.NPM_TOKEN }}
-
-

@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GiovanniCardamone/eslintc.git"
+    "url": "git+https://github.com/GiovanniCardamone/eslint-config.git"
   },
   "keywords": [
     "eslint"
@@ -17,9 +17,9 @@
   "author": "Giovanni Cardamone <g.cardamone2@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GiovanniCardamone/eslintc/issues"
+    "url": "https://github.com/GiovanniCardamone/eslint-config/issues"
   },
-  "homepage": "https://github.com/GiovanniCardamone/eslintc#readme",
+  "homepage": "https://github.com/GiovanniCardamone/eslint-config#readme",
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.28.5",
     "@typescript-eslint/parser": "^4.28.5",

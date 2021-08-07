@@ -22,7 +22,7 @@ Install package
   npm i -D @giovannicardamone/eslint-config
 ```
 
-Inslatt required dev dependencies
+Install required dev dependencies
 
 ```bash
   npm i -D eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser

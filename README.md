@@ -10,6 +10,7 @@ My Eslint Configuration
 
 - es2021
 - typescript
+- prettier
 - node
 - browser
 - mocha

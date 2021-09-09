@@ -1,3 +1,12 @@
+# [0.5.0](https://github.com/GiovanniCardamone/eslint-config/compare/v0.4.2...v0.5.0) (2021-09-09)
+
+
+### Features
+
+* no-empty-interface off ([c626f00](https://github.com/GiovanniCardamone/eslint-config/commit/c626f00070e427e32afd296cff2aa83fe5971531))
+
+
+
 ## [0.4.2](https://github.com/GiovanniCardamone/eslint-config/compare/v0.4.1...v0.4.2) (2021-08-07)
 
 

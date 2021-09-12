@@ -1,3 +1,12 @@
+# [0.6.0](https://github.com/GiovanniCardamone/eslint-config/compare/v0.5.0...v0.6.0) (2021-09-12)
+
+
+### Features
+
+* disabled import/no-anonymous-default-export ([cb65544](https://github.com/GiovanniCardamone/eslint-config/commit/cb655446bb7afbd5f38cdd4cdacf15c045d987f1))
+
+
+
 # [0.5.0](https://github.com/GiovanniCardamone/eslint-config/compare/v0.4.2...v0.5.0) (2021-09-09)
 
 
@@ -66,15 +75,6 @@
 ### Bug Fixes
 
 * switch case indend ([bdcfc8b](https://github.com/GiovanniCardamone/eslint-config/commit/bdcfc8b691361c9ea86d760d216acc607a47bb86))
-
-
-
-# [0.1.0](https://github.com/GiovanniCardamone/eslint-config/compare/7096bd84bd20be8d8dbd5925f154ee03accfe01a...v0.1.0) (2021-08-01)
-
-
-### Features
-
-* initial commit ([7096bd8](https://github.com/GiovanniCardamone/eslint-config/commit/7096bd84bd20be8d8dbd5925f154ee03accfe01a))
 
 
 
